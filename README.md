@@ -1,2 +1,2 @@
 # myProject
-Projeto para aulas
+Projeto para aulas na pós graduação
